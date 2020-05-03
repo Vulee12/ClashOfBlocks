@@ -1,0 +1,5 @@
+V0.3 (03.05.2020)
+================================
+menjan ceo kod za login i register i za proveru postojanja accounta tako sto se podaci skladiste na lokalnoj sql bazi
+dodata email provera
+dodata podesavanja gde se moze menjati sifra
