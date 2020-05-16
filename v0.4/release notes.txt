@@ -1,0 +1,10 @@
+V0.4 (16.05.2020)
+================================
+Dodata provera pri registrovanju (proverava da li uneti username vec postoji u bazi)
+Dodata kustomizacija kockica (tvojih, protivnickih)
+Dodata klasa koja ima metode da generise teren, resetuje teren, siri kockice
+Teren je napraljen od matrice koja se random generise
+Dodata provera da se vidi da li je predjen lvl (da li je zauzeto min 50% matrice)
+Ukoliko jeste u zavisnosti od % predjenosti lvl-a pojavljuju se zvezdice i btn za retry i next lvl
+Klikom na next generise se nova random matrica
+Klikom na retry ponovo se iscrtava ista matrica

@@ -1,0 +1,15 @@
+D:\Programiranje - 3g\ClashOfBlocks\bin\Debug\ClashOfBlocks.exe.config
+D:\Programiranje - 3g\ClashOfBlocks\bin\Debug\ClashOfBlocks.exe
+D:\Programiranje - 3g\ClashOfBlocks\bin\Debug\ClashOfBlocks.pdb
+D:\Programiranje - 3g\ClashOfBlocks\obj\Debug\ClashOfBlocks.csprojAssemblyReference.cache
+D:\Programiranje - 3g\ClashOfBlocks\obj\Debug\ClashOfBlocks.FrmLogin.resources
+D:\Programiranje - 3g\ClashOfBlocks\obj\Debug\ClashOfBlocks.FrmRegister.resources
+D:\Programiranje - 3g\ClashOfBlocks\obj\Debug\ClashOfBlocks.Properties.Resources.resources
+D:\Programiranje - 3g\ClashOfBlocks\obj\Debug\ClashOfBlocks.csproj.GenerateResource.cache
+D:\Programiranje - 3g\ClashOfBlocks\obj\Debug\ClashOfBlocks.csproj.CoreCompileInputs.cache
+D:\Programiranje - 3g\ClashOfBlocks\obj\Debug\ClashOfBlocks.exe
+D:\Programiranje - 3g\ClashOfBlocks\obj\Debug\ClashOfBlocks.pdb
+D:\Programiranje - 3g\ClashOfBlocks\obj\Debug\ClashOfBlocks.FrmIgra.resources
+D:\Programiranje - 3g\ClashOfBlocks\obj\Debug\ClashOfBlocks.FrmPlay.resources
+D:\Programiranje - 3g\ClashOfBlocks\obj\Debug\ClashOfBlocks.FrmSettings.resources
+D:\Programiranje - 3g\ClashOfBlocks\obj\Debug\ClashOfBlocks.FrmCustomization.resources
