@@ -1,0 +1,10 @@
+V0.5 (17.05.2020)
+================================
+Kustomizacija kockica zamenjena sa Shopom
+Dodati coinsi i level
+Level se povecava pritiskom na next level za jedan
+a coinsi se u zavisnosti od % predjenosti lvl
+povecavaju za 50, 100, 150
+U shop dodata kupovina packova
+Provera da li ima dovoljno para za kupovinu
+I kupovina ukoliko ima, selektovanje odabranog packa
